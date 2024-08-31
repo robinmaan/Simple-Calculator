@@ -21,7 +21,10 @@ body {
     text-align: center;
     background-color: #212121;
 }
-
+.calculate{
+    background-color: rgb(61, 160, 61);
+    width: 100px;
+}
 .buttons button {
     border-radius: 50%;
 
